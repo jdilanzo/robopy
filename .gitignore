@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Robot Framework
+[Oo]utput/
+[Tt]emp/
+
+### JetBrains ###
+.idea/
